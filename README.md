@@ -14,7 +14,9 @@ it involves the collection of log data from various components of a syatem.
 
 it involves tracking the flow of a request or transaction as it moves through different services and components within a system.
 
+### instrumentation
 
+It is the process of integrating monitoring tools,logging systems,and various metrics that help track the health, performance and behavior of the system.
 
 ## installing kube-prometheus-stack
 ~~~
